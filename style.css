@@ -1,0 +1,23 @@
+* {
+    background-color: #f8f8f8;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-size: small;
+    margin: 20px;
+}
+
+p {
+    color: #514d47;
+}
+
+li {
+    color: #514d47;
+}
+
+h1, h2 {
+    color: #555
+}
+
+a {
+    color: #72abbf;
+}
